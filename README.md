@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dannychrost
 - 👀 I’m very passionate about Web3
 - 🌱 I’m currently learning Foundry
-- 📫 How to reach me danielkchrost@gmail.com
+- 📫 How to reach me dannychrost@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm from NYC
 - ✨ My alt account is [@VestedDaniel](https://github.com/VestedDaniel)
