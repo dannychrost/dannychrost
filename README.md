@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @VestedDaniel
-- 👀 I’m very passionate about Web3
-- 🌱 I’m currently learning Foundry
-- 📫 How to reach me daniel@klevel.one
+- 👀 Web3 enthusiast
+- 💪 Foundry practitioner
+- 📫 How to reach me: daniel@klevel.one
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm from NYC
-- ✨ My personal account is [@dannychrost](https://github.com/dannychrost)
+- ⚡ Fun fact: NYC-based
+- ✨ Some more of my work -> [@dannychrost](https://github.com/dannychrost)
 
 <!---
 VestedDaniel/VestedDaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
